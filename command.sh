@@ -14,5 +14,5 @@ git pull
 git merge update_logo
 git push origin main
 
-
+# REPO_URL <github_url>
 https://github.com/theredcosmos/propeller_blackbird.git
