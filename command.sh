@@ -13,3 +13,6 @@ git checkout main
 git pull
 git merge update_logo
 git push origin main
+
+
+https://github.com/theredcosmos/propeller_blackbird.git
